@@ -1,7 +1,7 @@
-# NOOR — Premium Islamic Knowledge & Daily Companion
+# QURAN-AI — Premium Islamic Knowledge & Daily Companion
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="120" alt="Noor App Icon"/>
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="120" alt="QURAN-AI App Icon"/>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ---
 
-## ✨ What is Noor?
+## ✨ What is QURAN-AI?
 
-NOOR is a beautifully crafted, offline-capable Islamic assistant for Android. It combines AI-powered question answering with authentic Quranic scholarship, complete Tafseer coverage, multi-language translations, precision prayer times, and daily supplication reminders — all wrapped in a premium dark-emerald interface.
+QURAN-AI is a beautifully crafted, offline-capable Islamic assistant for Android. It combines AI-powered question answering with authentic Quranic scholarship, complete Tafseer coverage, multi-language translations, precision prayer times, and daily supplication reminders — all wrapped in a premium dark-emerald interface.
 
-Whether you're looking for a quick answer about Islamic jurisprudence, reading Tafseer commentary, or need accurate prayer times without internet — NOOR has you covered.
+Whether you're looking for a quick answer about Islamic jurisprudence, reading Tafseer commentary, or need accurate prayer times without internet — QURAN-AI has you covered.
 
 ---
 
@@ -35,7 +35,7 @@ Whether you're looking for a quick answer about Islamic jurisprudence, reading T
 - **Arabic Text** — Original Arabic scripture
 
 ### Tafseer (Exegesis)
-NOOR includes comprehensive Tafseer coverage from renowned scholars:
+QURAN-AI includes comprehensive Tafseer coverage from renowned scholars:
 - **Bayaan-ul-Quran** — Maulana Ashraf Ali Thanvi (RA)
 - **Tafheem-ul-Quran** — Syed Abul Ala Maududi (RA)
 - **Ma'ariful Quran** — Mufti Muhammad Shafi (RA)
@@ -143,7 +143,7 @@ The AI chat employs a robust 4-tier fallback system to ensure answers are always
 
 ## 🔒 Private Repository Notice
 
-This repository contains the core codebase for **NOOR** and is kept strictly private. Public releases are published separately.
+This repository contains the core codebase for **QURAN-AI** and is kept strictly private. Public releases are published separately.
 
 > **For developers**: Building locally requires your own API credentials in `local.properties` and a valid `google-services.json` in the `app/` directory.
 
